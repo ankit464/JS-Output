@@ -30,6 +30,16 @@ price = price + 1;
 //let save;        --undefined
 //let save =null    --null
 
+//objects and symbol
+//symbols hide information in an object
+//here firstname is the symbol
+// let person= {
+//     firstName:'john',
+//     lastName:'adams'
+
+// };
+// showMessage(person.firstName);
+
 showMessage(price);
 // showMessage(welcome);
 //alert("i will make 25 to changes");
@@ -39,6 +49,27 @@ showMessage('"Ankit making the changes..."');
 // console.log(99time);
 //let let=20; // keyword cant be the variable name
 
+//let x=20;
+// if(x<25){
+//     showMessage(x);
+// }
+
+// if (+(1.1 + 1.2).toFixed(2)!== 2.4) {
+//   showMessage("true");
+// }
+// else{
+//     showMessage(fals4);
+// }
+
+// if(true){
+// let x=10;
+// showMessage(x);
+// }
+for (let i = 0; i < 3; i++) {
+  console.log(i);
+}
+
+// console.log(x);//error as let havingnthe block scope
 console.log(price);
 //console.log(welcome);
 alert("this is mesaage from home JS");
