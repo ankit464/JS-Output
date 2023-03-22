@@ -65,9 +65,10 @@ showMessage('"Ankit making the changes..."');
 // let x=10;
 // showMessage(x);
 // }
-for (let i = 0; i < 3; i++) {
-  console.log(i);
-}
+
+// for (let i = 0; i < 3; i++) {
+//   console.log(i);
+// }
 
 // console.log(x);//error as let havingnthe block scope
 console.log(price);
