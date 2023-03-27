@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#heading {
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  background-color: #fffbeb;
+}
+
+#read-more-less {
+  color: black;
+  font-weight: bolder;
+  margin-top: 5px;
+}
+
+#heading {
+  background-color: #e8f3d6;
+}
+.paragraph {
+  width: 80%;
+  margin: 30px auto;
+  background-color: #d8d8d8;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+#content {
+}
