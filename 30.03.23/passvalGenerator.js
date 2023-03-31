@@ -6,7 +6,7 @@ function* timestampGenerator() {
   console.log("Addtional Time:" + additionalTime);
   if (additionalTime) {
     ts = ts + additionalTime;
-  }
+  }0
 
   console.log("Updated Time :" + ts);
 }
